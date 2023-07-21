@@ -2,7 +2,7 @@
   "name": "display-revenue-applcation",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://deepak-learner.github.io",
+  "homepage": "https://deepak-learner.github.io/React-Revenue-aggregator-application",
   "dependencies": {
     "@testing-library/jest-dom": "^5.17.0",
     "@testing-library/react": "^13.4.0",

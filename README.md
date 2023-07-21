@@ -1,7 +1,8 @@
-# Getting Started with Create React App
+## Revenue Aggregator Application
+Deployed Link: https://deepak-learner.github.io/React-Revenue-aggregator-application/
+![image](https://github.com/Deepak-learner/React-Revenue-aggregator-application/assets/56799414/38c8b1f7-a927-4b18-b2da-a6734a3a1bf9)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-
 ## Available Scripts
 
 In the project directory, you can run:

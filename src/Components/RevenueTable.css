@@ -1,0 +1,47 @@
+ .revenue-table-container {
+    max-width: 500px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 2px solid #ddd;
+    border-radius: 8px;
+    box-shadow: 0 0 5px rgba(0, 0, 0, 0.1);
+  }
+  
+  .search-label {
+    margin-bottom: 10px;
+    font-size: 16px;
+    text-align: left;
+  }
+  
+  .search-input {
+    width: 50%;
+    padding: 10px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    outline: none;
+    margin:10px;
+  }
+  
+  .revenue-table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-top: 20px;
+  }
+  
+  .revenue-table th,
+  .revenue-table td {
+    padding: 12px;
+    text-align: left;
+    border-bottom: 1px solid #ccc;
+  }
+  
+  .revenue-table th {
+    background-color: #f0f0f0;
+  }
+  
+  .revenue-table tfoot td {
+    font-weight: bold;
+    border-top: 2px solid #444;
+  }
+  
